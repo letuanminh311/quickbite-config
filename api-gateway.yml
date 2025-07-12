@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: api-gateway
+message: Hello from API Gateway via Config Server!
