@@ -1,4 +1,4 @@
 spring:
-     application:
-       name: demo1-service
-   message: Hello from Demo1 Service via Config Server!
+  application:
+    name: demo1-service
+message: Hello from Demo1 Service via Config Server!
